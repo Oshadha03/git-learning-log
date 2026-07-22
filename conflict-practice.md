@@ -17,5 +17,7 @@
 - Merge conflicts are normal and not scary
 - Rebase rewrites history so only use it on localy branches
 - Interactive rebase is powerful for cleaning up work before sharing
+- Git stash is a lifeaver for context switching
+- I use interactive rebase to polish commits before opening a PR
 
 
