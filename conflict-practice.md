@@ -20,4 +20,6 @@
 - Git stash is a lifeaver for context switching
 - I use interactive rebase to polish commits before opening a PR
 
+# Conflict Practice Notes
+
 
